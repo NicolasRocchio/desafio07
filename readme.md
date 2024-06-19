@@ -1,7 +1,7 @@
-# Desafio 07
+# Desafio 08
 
 Nicolas Rocchio
 
-## educacionit-desafio07.netlify.app
+## educacionit-desafio08.netlify.app
 
-## https://github.com/NicolasRocchio/desafio07
+## https://github.com/NicolasRocchio/desafio08
